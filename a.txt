@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cyber Pulse India</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Cyber Pulse India</h1>
+        <nav>
+            <ul>
+                <li><a href="#threats">Cyber Threats</a></li>
+                <li><a href="#attacks">Recent Attacks</a></li>
+                <li><a href="#initiatives">Govt Initiatives</a></li>
+                <li><a href="#tips">Safety Tips</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="threats">
+        <h2>Understanding Cyber Threats</h2>
+        <p>Learn about phishing, ransomware, data breaches, and more affecting Indian users and organizations.</p>
+    </section>
+
+    <section id="attacks">
+        <h2>Recent Cyber Attacks in India</h2>
+        <ul>
+            <li>AIIMS ransomware attack (2022)</li>
+            <li>IRCTC data breach</li>
+            <li>Cyberattack on Oil India Limited</li>
+        </ul>
+        <p>Explore more on <a href="https://eventussecurity.com/cybersecurity/india/cyber-attacks/"
+                target="_blank">Eventus Security</a>.</p>
+    </section>
+
+    <section id="initiatives">
+        <h2>Government Cybersecurity Initiatives</h2>
+        <p>Discover efforts like CERT-In, National Cyber Security Policy, and Digital India’s security framework.</p>
+        <p>Details available on <a
+                href="https://securityboulevard.com/2024/10/list-of-cybersecurity-initiatives-by-the-government-of-india/"
+                target="_blank">Security Boulevard</a>.</p>
+    </section>
+
+    <section id="tips">
+        <h2>Cyber Safety Tips</h2>
+        <ul>
+            <li>Use strong, unique passwords</li>
+            <li>Enable two-factor authentication</li>
+            <li>Update software regularly</li>
+            <li>Be cautious of suspicious emails</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Cyber Pulse India. Stay Safe, Stay Secure.</p>
+    </footer>
+</body>
+
+</html>
